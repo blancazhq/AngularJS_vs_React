@@ -1,0 +1,68 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.my-todo-list-container {
+  background-color: #c0bbb1;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.my-todo-list-title{
+  background-color: #ffffff;
+  color: #c0bbb1;
+  padding: 10px;
+  font-weight: normal;
+  font-size: 28px;
+}
+
+.todo-list-item-container {
+  padding: 10px;
+}
+
+.todo-list-item {
+  color: #f39b33;
+}
+
+.todo-list-item-done {
+  text-decoration: line-through;
+  color: #ffffff;
+}
+
+.button {
+  border: none;
+  padding: 10px 15px;
+  background-color: #f39b33;
+  margin-left: 10px;
+  color: #7a706a;
+  outline: none;
+}
+
+.button1 {
+  border: 1px solid #f39b33;
+  padding: 10px 15px;
+  background-color: transparent;
+  margin-left: 10px;
+  color: #f39b33;
+  outline: none;
+}
+
+.button-disabled {
+  background-color: #dfded7;
+}
+
+.input-container {
+  padding: 15px;
+}
+
+.input {
+  padding: 10px;
+  width: 80%;
+  color: #f39b33;
+  background-color: transparent;
+  border: 1px solid #f39b33;
+  box-shadow: none;
+  outline: none;
+}

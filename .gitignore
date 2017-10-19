@@ -1,0 +1,21 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+react/my-todo-list/node_modules
+
+# testing
+react/my-todo-list/coverage
+
+# production
+react/my-todo-list/build
+
+# misc
+react/my-todo-list/.DS_Store
+react/my-todo-list/.env.local
+react/my-todo-list/.env.development.local
+react/my-todo-list/.env.test.local
+react/my-todo-list/.env.production.local
+
+react/my-todo-list/npm-debug.log*
+react/my-todo-list/yarn-debug.log*
+react/my-todo-list/yarn-error.log*
